@@ -18,7 +18,7 @@
 - [Virtualisierung](#virtualisierung)
 - [Ressourcen Fachinformatiker-Forum](#ressourcen-fachinformatiker-forum)
 - [Prüfungsvorbereitung Fachinformatiker-Forum](#prüfungsvorbereitung-fachinformatiker-forum)
-- 
+  
 ---
 
 ## Grundlagen Netzwerktechnik
@@ -103,4 +103,5 @@
 - [AP2 FIAE Masterplan](https://www.fachinformatiker.de/files/file/50-ap2-fiae-masterplan-v10/) 💻
 - [AP1 Masterplan](https://www.fachinformatiker.de/files/file/44-ap1-prüfungsvorbereitung-masterplan/) ✅
 - [AP1 Lernzettel](https://www.fachinformatiker.de/files/file/36-fachinformatiker-ap1-lernzettel-ab-2025/) ✅
-``
+
+
