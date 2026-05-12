@@ -1,0 +1,7 @@
+{
+  "permissions": {
+    "allow": [
+      "PowerShell(\\(Get-Content \"c:\\\\Users\\\\ADM-Priv-6D3F\\\\GitHub\\\\LD_D09-Links\\\\README.md\" -Raw -Encoding utf8\\) -replace '\\\\[\\([^\\\\]]+\\)\\\\]\\\\\\(\\(https://www\\\\.elektronik-kompendium\\\\.de[^\\)]+\\)\\\\\\) ElKo', '[$1 \\(ElKo\\)]\\($2\\)' | Set-Content \"c:\\\\Users\\\\ADM-Priv-6D3F\\\\GitHub\\\\LD_D09-Links\\\\README.md\" -Encoding utf8 -NoNewline)"
+    ]
+  }
+}
