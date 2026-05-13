@@ -12,7 +12,7 @@
 - [Zahlensysteme](#zahlensysteme)
 - [IPv6](#ipv6)
 - [IPv4](#ipv4)
-- [Allgemeine Ressourcen](#allgemeine-ressourcen)
+- [Sonstiges](#sonstiges)
 - [Prüfungsvorbereitung](#prüfungsvorbereitung)
 
 ---
@@ -48,7 +48,7 @@
 | [TCP/IP-Schichtenmodell](https://www.elektronik-kompendium.de/sites/net/0907011.htm) | Beschreibt das vierschichtige TCP/IP-Modell als praktische Grundlage der Internetkommunikation. | ✅🌐💻 | S. 254 |
 | [OSI-Schichtenmodell](https://www.elektronik-kompendium.de/sites/kom/0301201.htm) | Erläutert das siebenschichtige ISO/OSI-Referenzmodell zur Standardisierung von Netzwerkkommunikation. | ✅🌐💻 | S. 251 |
 | [OSI-Schichtenmodell in der Netzwerktechnik](https://www.elektronik-kompendium.de/sites/net/0706101.htm) | Zeigt die praktische Bedeutung und Zuordnung des OSI-Modells in der Netzwerktechnik. | ✅🌐 | S. 251 |
-| [OSI Modell Überblick](https://www.fachinformatiker.de/files/file/5-iso-osi-schichtenmodell/) | Kompakte Übersicht der OSI-Schichten als Lernunterlage vom Fachinformatiker-Forum. | ✅🌐💻 | |
+| [OSI Modell Überblick (FI-Forum)](https://www.fachinformatiker.de/files/file/5-iso-osi-schichtenmodell/) | Kompakte Übersicht der OSI-Schichten als Lernunterlage vom Fachinformatiker-Forum. | ✅🌐💻 | |
 
 ## Netzwerkgeräte
 
@@ -171,6 +171,13 @@
 
 ---
 
+### Allgemein
+| Link | Beschreibung | AP |
+|---|---|:---:|
+| [IPv4 und IPv6 (FI-Forum)](https://www.fachinformatiker.de/files/file/40-ipv4-und-ipv6/) | Vergleich und Grundlagen der Adressierungskonzepte IPv4 und IPv6. | ✅🌐💻 |
+
+---
+
 ### Adressen und Header
 
 | Link | Beschreibung | AP | 📖 |
@@ -211,6 +218,13 @@
 
 ---
 
+### Allgemein
+| Link | Beschreibung | AP |
+|---|---|:---:|
+| [IPv4 und IPv6 (FI-Forum)](https://www.fachinformatiker.de/files/file/40-ipv4-und-ipv6/) | Vergleich und Grundlagen der Adressierungskonzepte IPv4 und IPv6. | ✅🌐💻 |
+
+---
+
 ### Adressen und Header
 
 | Link | Beschreibung | AP | 📖 |
@@ -233,28 +247,27 @@
 | [ARP - Address Resolution Protocol](https://www.elektronik-kompendium.de/sites/net/0901061.htm) | Ermittelt zu einer bekannten IP-Adresse die zugehörige MAC-Adresse im lokalen Netzwerk. | ✅🌐 | S. 286 |
 | [ICMP - Internet Control Message Protocol](https://www.elektronik-kompendium.de/sites/net/0901011.htm) | Überträgt Steuer- und Fehlermeldungen im IP-Netz, u. a. genutzt von Ping und Traceroute. | ✅🌐 | S. 287 |
 
-## Allgemeine Ressourcen
+## Sonstiges
 
 | Link | Beschreibung | AP |
 |---|---|:---:|
-| [FI-Forum OSI Modell Überblick](https://www.fachinformatiker.de/files/file/5-iso-osi-schichtenmodell/) | Übersichtliche Lernunterlage zu den sieben OSI-Schichten vom Fachinformatiker-Forum. | ✅🌐💻 |
-| [FI-Forum USV Typen](https://www.fachinformatiker.de/files/file/9-usv-typen/) | Erklärt die verschiedenen Typen unterbrechungsfreier Stromversorgung (Offline, Line-Interactive, Online). | ✅🌐 |
-| [FI-Forum Backup Formen](https://www.fachinformatiker.de/files/file/8-backup-formen/) | Überblick über Vollbackup, differentielles und inkrementelles Backup mit Vor- und Nachteilen. | ✅🌐💻 |
-| [FI-Forum IPv4 und IPv6](https://www.fachinformatiker.de/files/file/40-ipv4-und-ipv6/) | Vergleich und Grundlagen der Adressierungskonzepte IPv4 und IPv6. | ✅🌐💻 |
-| [FI-Forum Fachbegriffe Glossar](https://www.fachinformatiker.de/files/file/48-fachbegriffe-und-themen-kurzerklärung/) | Kompaktes Glossar mit kurzen Erklärungen wichtiger IT-Fachbegriffe für die Prüfungsvorbereitung. | ✅🌐💻 |
+| [OSI Modell Überblick (FI-Forum)](https://www.fachinformatiker.de/files/file/5-iso-osi-schichtenmodell/) | Übersichtliche Lernunterlage zu den sieben OSI-Schichten vom Fachinformatiker-Forum. | ✅🌐💻 |
+| [USV Typen (FI-Forum)](https://www.fachinformatiker.de/files/file/9-usv-typen/) | Erklärt die verschiedenen Typen unterbrechungsfreier Stromversorgung (Offline, Line-Interactive, Online). | ✅🌐 |
+| [Backup Formen (FI-Forum)](https://www.fachinformatiker.de/files/file/8-backup-formen/) | Überblick über Vollbackup, differentielles und inkrementelles Backup mit Vor- und Nachteilen. | ✅🌐💻 |
+| [Fachbegriffe Glossar (FI-Forum)](https://www.fachinformatiker.de/files/file/48-fachbegriffe-und-themen-kurzerklärung/) | Kompaktes Glossar mit kurzen Erklärungen wichtiger IT-Fachbegriffe für die Prüfungsvorbereitung. | ✅🌐💻 |
 
 ## Prüfungsvorbereitung
 ### Videos
-- [Stefan Macke AP1 Playlist](https://www.youtube.com/playlist?list=PLunzHF-cqEKNOpDGznc7SfT2cy8c2BXyj) ✅
-- [Stefan Macke AP2 FIAE Prüfungsvorbereitung Playlist](https://www.youtube.com/watch?v=eQoC4GDzYbI&list=PLunzHF-cqEKMBkR6Jqg1YApkbJWEsy1gy)
+- [Stefan Macke: AP1 Playlist](https://www.youtube.com/playlist?list=PLunzHF-cqEKNOpDGznc7SfT2cy8c2BXyj) ✅
+- [Stefan Macke: AP2 FIAE Prüfungsvorbereitung Playlist](https://www.youtube.com/watch?v=eQoC4GDzYbI&list=PLunzHF-cqEKMBkR6Jqg1YApkbJWEsy1gy)
 
 ---
 
 | Link | Beschreibung | AP |
 |---|---|:---:|
-| [FI-Forum Prüfungskatalog 2025](https://www.fachinformatiker.de/files/file/33-prüfungskatalog-2025-auszug/) | Auszug des offiziellen Prüfungskatalogs 2025 für Fachinformatiker-Ausbildungen. | ✅🌐💻 |
-| [FI-Forum AP1 Masterplan](https://www.fachinformatiker.de/files/file/44-ap1-prüfungsvorbereitung-masterplan/) | Strukturierter Lernplan mit allen relevanten Themen zur Vorbereitung auf die AP1-Prüfung. | ✅ |
-| [FI-Forum AP1 Lernzettel](https://www.fachinformatiker.de/files/file/36-fachinformatiker-ap1-lernzettel-ab-2025/) | Kompakte Lernzettel mit den wichtigsten Inhalten für die AP1-Prüfung ab 2025. | ✅ |
-| [FI-Forum AP2 FISI Masterplan](https://www.fachinformatiker.de/files/file/51-ap2-fisi-masterplan/) | Strukturierter Lernplan für alle relevanten Themen der AP2-Prüfung im Bereich Systemintegration. | 🌐 |
-| [FI-Forum AP2 FISI Prüfungsvorbereitung](https://www.fachinformatiker.de/files/file/52-fisi-ap-2-prüfungsvorbereitung/) | Umfassende Prüfungsunterlagen und Übersichten für den AP2-Bereich FISI. | 🌐 |
-| [FI-Forum AP2 FIAE Masterplan](https://www.fachinformatiker.de/files/file/50-ap2-fiae-masterplan-v10/) | Strukturierter Lernplan für alle relevanten Themen der AP2-Prüfung im Bereich Anwendungsentwicklung. | 💻 |
+| [Prüfungskatalog 2025 (FI-Forum)](https://www.fachinformatiker.de/files/file/33-prüfungskatalog-2025-auszug/) | Auszug des offiziellen Prüfungskatalogs 2025 für Fachinformatiker-Ausbildungen. | ✅🌐💻 |
+| [AP1 Masterplan (FI-Forum)](https://www.fachinformatiker.de/files/file/44-ap1-prüfungsvorbereitung-masterplan/) | Strukturierter Lernplan mit allen relevanten Themen zur Vorbereitung auf die AP1-Prüfung. | ✅ |
+| [AP1 Lernzettel (FI-Forum)](https://www.fachinformatiker.de/files/file/36-fachinformatiker-ap1-lernzettel-ab-2025/) | Kompakte Lernzettel mit den wichtigsten Inhalten für die AP1-Prüfung ab 2025. | ✅ |
+| [AP2 FISI Masterplan (FI-Forum)](https://www.fachinformatiker.de/files/file/51-ap2-fisi-masterplan/) | Strukturierter Lernplan für alle relevanten Themen der AP2-Prüfung im Bereich Systemintegration. | 🌐 |
+| [AP2 FISI Prüfungsvorbereitung (FI-Forum)](https://www.fachinformatiker.de/files/file/52-fisi-ap-2-prüfungsvorbereitung/) | Umfassende Prüfungsunterlagen und Übersichten für den AP2-Bereich FISI. | 🌐 |
+| [AP2 FIAE Masterplan (FI-Forum)](https://www.fachinformatiker.de/files/file/50-ap2-fiae-masterplan-v10/) | Strukturierter Lernplan für alle relevanten Themen der AP2-Prüfung im Bereich Anwendungsentwicklung. | 💻 |
